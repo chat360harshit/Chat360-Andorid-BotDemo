@@ -7,4 +7,6 @@
     <string name="flutter_downloader_notification_failed">Download failed</string>
     <string name="flutter_downloader_notification_complete">Download complete</string>
     <string name="flutter_downloader_notification_paused">Download paused</string>
+    <string name="default_notification_channel_id">default_value</string>
+    <string name="msg_token_fmt">Generated the fcm token %s</string>
 </resources>
